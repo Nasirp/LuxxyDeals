@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LuxxyDeals/static/css/main.e310e930.css",
+    "main.js": "/LuxxyDeals/static/js/main.98a43baf.js",
+    "index.html": "/LuxxyDeals/index.html",
+    "main.e310e930.css.map": "/LuxxyDeals/static/css/main.e310e930.css.map",
+    "main.98a43baf.js.map": "/LuxxyDeals/static/js/main.98a43baf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e310e930.css",
+    "static/js/main.98a43baf.js"
+  ]
+}
